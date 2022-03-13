@@ -19,3 +19,7 @@ My name is Clara! How are u? :grinning:
   <a href="https://www.linkedin.com/in/clarasavelli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
  
+ ##
+ :books:	And if you are interested, you can learn more about my books here:
+  <a href="https://www.clarasavelli.com"><img src="https://img.shields.io/website?down_color=pink&up_color=purple&up_message=official%20website&url=https%3A%2F%2Fwww.clarasavelli.com" target="_blank"></a>
+
