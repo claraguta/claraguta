@@ -13,11 +13,12 @@ My name is Clara! How are u? :grinning:
 
 ## Stats
 
-<div align="center">
-  <a href="https://github.com/claraguta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claraguta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraguta&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claraguta"/>
+</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraguta" />
+</a>
+
+
  
  ## Learning
 <div style="display: inline_block"><br>
@@ -44,3 +45,6 @@ My name is Clara! How are u? :grinning:
  :books:	And if you are interested, you can learn more about my books here:
   <a href="https://www.clarasavelli.com"><img src="https://img.shields.io/website?down_color=pink&up_color=purple&up_message=official%20website&url=https%3A%2F%2Fwww.clarasavelli.com" target="_blank"></a>
 
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
