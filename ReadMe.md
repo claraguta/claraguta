@@ -13,11 +13,11 @@ My name is Clara! How are u? :grinning:
 
 ## Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claraguta"/>
-</a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraguta" />
-</a>
-
+<div align="center">
+  <a href="https://linkedin.com/in/clarasavelli">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=claraguta"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraguta"/>
+</div>
 
  
  ## Learning
