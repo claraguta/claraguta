@@ -8,7 +8,7 @@ My name is Clara! How are u? :grinning:
 
 :baby: Starting to learn how to code <br>
 :dart:	Goal is to be a full stack dev <br> 
-:woman_technologist:	Currently learning *HTML*, *CSS*, *Javascript*, *Python* and *Node.js* <br>
+:woman_technologist:	Currently learning *HTML*, *CSS*, *Javascript*, *Python*, *Java* and *Node.js* <br>
 :woman_student:	Studied at [{programaria}](https://www.programaria.org/) and studied at [{reprograma}](https://reprograma.com.br/) <br>
 :woman_student: Now studying at Generation 
 
